@@ -1,8 +1,7 @@
 # 📱 Responsive Sidebar Dropdown
 
 A clean, modern, and fully responsive sidebar navigation component with dropdown functionality.
-Designed with a **mobile-first approach**, focusing on smooth transitions and clean UI architecture.
-
+Designed to provite a robust navigation expirience on **desktop**  while seamlessly adapting to **smaller** screens.
 🔗 **[Live Demo](https://luigiar.github.io/Responsive-Sidebar-DropDown-Menu/)**
 
 ![Preview](assets/preview.gif)
