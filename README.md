@@ -8,8 +8,14 @@ Made to practice HTML, CSS and basic UI components.
 - CSS
 
 ## 📸 Preview
-<img width="111" height="689" alt="image" src="https://github.com/user-attachments/assets/45d967cb-7240-46ac-ab78-aea59378ef2d" />
-<img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/644f26e2-ff48-4b28-b014-32b11b019b5b" />
+
+<p align="center">
+  <img src="https://github.com/luigiar/Responsive-Sidebar-DropDown-Menu/blob/master/Kooha-2025-11-30-17-51-53-ezgif.com-resize.gif" width="400px" alt="Sidebar demo GIF">
+</p>
+
+
+
+
 
 
 
